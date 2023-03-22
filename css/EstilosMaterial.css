@@ -41,6 +41,19 @@
 #barra-cursos a:hover{
 	background-color: #0FAD40;
 }
+
+.botonYouTube{
+	margin-top: 50px;
+}
+.botonYouTube a{
+	padding: 20px 100px;
+	background-color: #0FAD40 ;
+	border-radius: 10px;
+	transition: background-color 0.3s ease;
+}
+.botonYouTube a:hover{
+	background-color: #04811F ;
+}
 .overlay{
 	border-radius: 15px;
 	position: relative;
