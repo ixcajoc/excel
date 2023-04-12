@@ -70,7 +70,8 @@
 /*__________________________________________________________________*/
 /*___________overlay para todas los cursos____________________________*/
 #material .overlay::after{
-	content: "click aquí";
+/*	content: "click aquí";*/
+	content: "";
 	font-size: 2rem;
 	color: white;/*
 	background-color: #16456198;*/
